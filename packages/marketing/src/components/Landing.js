@@ -16,7 +16,7 @@ function Copyright() {
     <Typography variant="body2" color="textSecondary" align="center">
       {"Copyright © "}
       <MaterialLink component={Link} to="/" color="inherit">
-        Your Website hellow
+        Your Website changes something to trigger
       </MaterialLink>{" "}
       {new Date().getFullYear()}
       {"."}
